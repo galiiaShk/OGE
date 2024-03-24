@@ -1,11 +1,11 @@
-# OGE
+# MusiGesture
 Objekt- und Gestenerkennung Projekt
 
 1.	Für die Funktion der Anwendung ist die Installation von anaconda https://www.anaconda.com/download/ notwendig
 
 2.	Es wurde Python der Versionen 3.8 oder 3.9 verwendet
 
-3.	Der Code ist über jupyter Notebook im anaconda Navigator implementiert und ist unter HandTracking2Variants.ipynb aufrufbar
+3.	Der Code ist über jupyter Notebook im anaconda Navigator implementiert und ist unter MusiGesture.ipynb aufrufbar
 
 4.	Die ersten 5 Zellen führen die Installationen der Bibliotheken bzw. Module aus, wenn diese in der Umgebung noch nicht vorhanden sind
 
